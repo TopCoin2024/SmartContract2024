@@ -1,10 +1,9 @@
 # SmartContract2024
 
 <!-- Donation
+TRC-Large: TBYxmMz9ZHinEdQQYBqWzjBYvxh1QXC3vf
+
 BEP: 0x14bD14720Ee8f0DA3267aFd90c4E8eA0eaf79faC
 
-
-
-
-TRC-Large: TBYxmMz9ZHinEdQQYBqWzjBYvxh1QXC3vf
+ERC: 0x0D16892707895373729fc3F5D9fE068Ec5E559Fc
 -->
